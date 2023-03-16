@@ -17,13 +17,13 @@ Para crear un archivo .gitignore local, crea un archivo de texto y asígnale el 
 
 ### Ejemplos
 _# Ignora archivos del sistema Mac_ 
-.DS_store
+**.DS_store**
 
 _# Ignora la carpeta node_modules_
-node_modules
+**node_modules**
 
 _# Ignora todos los archivos de texto_
-*.txt
+***.txt**
 
 ## Ejemplo ¿Cómo ignorar un archivo llamado ignorado.txt?
 
