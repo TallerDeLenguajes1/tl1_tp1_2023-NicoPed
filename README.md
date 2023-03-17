@@ -28,3 +28,8 @@ _# Ignora todos los archivos de texto_
 ## Ejemplo ¿Cómo ignorar un archivo llamado ignorado.txt?
 
 Sencillamente dentro del archivo de texto _.gitignore_ escribir ignorado.txt para que Git lo pase por alto.
+
+----------------------------------------------------------------------------------------------------------------
+#DEL PUNTO 3
+El 2 y 3 (De hecho el 1 y 2)son lo mismo ya que el puntero apunta a la dirección de memoria del dato
+y el 4(3) no es el mismo ya que el puntero se almacena en otro lado de la memoria
